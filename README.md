@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<p align="center">   
+       <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
+   <a href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a> 
+     <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <br>
 
 <!--
 **sajjadshadrooz/sajjadshadrooz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
